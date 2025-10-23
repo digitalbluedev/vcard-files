@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Firehock;Shawn;;;
+FN:Shawn Firehock
+ORG:Digital Blue
+TITLE:Co-Founder and CEO
+EMAIL;TYPE=INTERNET,PREF:shawn.firehock@digitalblue.io
+TEL;TYPE=WORK:(518)573-6410
+URL;TYPE=WORK:https://www.digitalblue.io
+IMPP;type=pref;social profile:linkedin:https://www.linkedin.com/in/firehock
+PHOTO;TYPE=image/jpeg:https://static.wixstatic.com/media/ac2bba_64e09997521c4e48b9263e4296baf444~mv2.jpg
+NOTE:Founder and CEO of Digital Blue with over 20 years experience transforming healthcare operations and consistently delivering over 40% operational productivity improvements. Board Trustee for Saratoga Hospital Foundation.
+END:VCARD
