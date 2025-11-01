@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bai;Xin;;;
+FN:Xin Bai
+ORG:Digital Blue;
+TITLE:Lead Solution Engineer
+EMAIL;type=INTERNET;type=pref:xin.bai@digitalblue.io
+NOTE:Xin is Lead SolutionEngineer at Digital Blue. In this role, he works with Digital Blue-based teams to deliver intelligent automation solutions to drive measurable operational improvements to our clients. In addition, serves as a development facilitator with multiple groups across finance, sales, operations, and information technology. Xin is responsible for working with teams to deliver automation development tracks, adhering to the best practices and high standards. Xin has skills and demonstrated success in creating general and ad hoc pipeline jobs for data integration and ingestion and dataflows for data cleansing and transformation processes using Azure Data Factory. Xin's strengths include streamlining processes using Azure Event Hub and Azure Stream Analytics, normalization, denormalization, data modeling, and relationship designing in OLTP (online transaction processing) and OLAP (online analytical processing). In addition, Xin excels at creating complex T-SQL scripts, including Triggers, Stored Procedures, User Defined Functions, and Common Table Expressions using DDL and DML based on business requirements with Python and Spark to build and optimize classic and modern machine learning models to document, analyze, and translate data mining needs into technical design and solutions, performing analytical visualization using R, Python, Excel and BI tools like Power BI/Tableau. Xin has a Master's of Science in Business Analytics from Syracuse University and a Bachelor's of Science in Electrical Engineering from Illinois Institute of Technology.
+URL;type=WORK;type=pref:https://www.digitalblue.io
+item1.URL:https://www.linkedin.com/in/xin-bai-31734929b/
+item1.X-ABLabel:LinkedIn
+END:VCARD
