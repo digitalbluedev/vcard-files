@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Surething;Jared;;;
+FN:Jared Surething
+ORG:Digital Blue;
+TITLE:Senior Consultant
+EMAIL;type=INTERNET;type=pref:xin.bai@digitalblue.io
+NOTE:Jared is a Senior Consultant at Digital Blue. In this role, he works directly with senior stakeholders from clients and partners within the Healthcare industry facilitating action with multiple groups across finance, sales, operations, technology, and data science. Jared is responsible for project management, program management, and analysis of strategic and transformational initiatives with clients in requirements gathering, technology selection, business process optimization, business case creation, solution design, and implementation of digital solutions.
+URL;type=WORK;type=pref:https://www.digitalblue.io
+item1.URL:https://www.linkedin.com/in/jared-surething/
+item1.X-ABLabel:LinkedIn
+END:VCARD
