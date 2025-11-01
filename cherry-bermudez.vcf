@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bermudez;Cherry;;;
+FN:Cherry Bermudez
+ORG:Digital Blue;
+TITLE:Healthcare Specialist
+EMAIL;type=INTERNET;type=pref:cherry.bermudez@digitalblue.io
+URL;type=WORK;type=pref:https://www.digitalblue.io
+item1.URL:https://www.linkedin.com/in/cherry-anne-bermudez-081930188
+item1.X-ABLabel:LinkedIn
+END:VCARD
