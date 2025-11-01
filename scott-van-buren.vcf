@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Van Buren;Scott;;;
+FN:Scott Van Buren
+ORG:Digital Blue;
+TITLE:Senior Solution Architect
+EMAIL;type=INTERNET;type=pref:scott.vanburen@digitalblue.io
+TEL;type=pref:(518)926-0306
+NOTE: Scott is Senior Solution Architect at Digital Blue. He is a driven technology professional with a proven 20+ year track record of success in participating and leading projects for clients across various industries, including healthcare, financial services, specialty pharma, insurance, and entertainment. His perseverance, total commitment, and years of experience in database architecture, data analytics, reporting, software design, and development have been the keys to his clients' success.
+item1.URL;type=pref:https://www.digitalblue.io
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.IMPP;X-SERVICE-TYPE=linkedin;type=pref:x-apple:https://www.linkedin.com/in/scott-van-buren-mscis-b8313210/
+item2.X-ABLabel:social profile
+PHOTO;ENCODING=b;TYPE=JPEG:
+END:VCARD
