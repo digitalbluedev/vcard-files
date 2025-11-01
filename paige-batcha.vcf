@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Batcha;Paige;;;
+FN:Paige Batcha
+ORG:Digital Blue;
+TITLE:CFO
+EMAIL;type=INTERNET;type=pref:paige.batcha@digitalblue.io
+NOTE:Paige Batcha, CPA, MBA, is a financial leader who has built a career around strategic partnership and flexible employment. With over 15 years of professional and leadership experience, she has a robust background in accounting, auditing, and business development across various industries, including technology and manufacturing. She notably pioneered a new consulting business line at Versique Search & Consulting, scaling it from zero to $2.5 million in revenue in less than two years. She holds an MBA from St. Cloud State University and a BA in Accounting from the College of Saint Benedict. Beyond her professional life, she is a soccer mom, an avid sports fan, and a world traveler. Batcha has also demonstrated a strong commitment to her community through extensive volunteer work and board service for several organizations.
+URL;type=WORK;type=pref:https://www.digitalblue.io
+item1.URL:https://www.linkedin.com/in/paige-batcha-cpa
+item1.X-ABLabel:LinkedIn
+PHOTO;ENCODING=b;TYPE=JPEG:
+END:VCARD
